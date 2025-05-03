@@ -1,0 +1,9 @@
+psutil 
+requests 
+discord 
+pillow 
+cv2 
+pyautogui 
+numpy 
+keyboard 
+cryptography 
